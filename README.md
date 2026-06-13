@@ -1,4 +1,4 @@
-👋 Hi, I’m a backend engineer who enjoys turning complex logic into clean code.
+👋 Hi, I’m a backend engineer who enjoys turning complex logic into clean code. I treat clarity as a core development principle, placing a strong emphasis on code quality and thorough documentation.
 
 🏛️ I hold a Ph.D. and previously worked as a university senior lecturer.
 
