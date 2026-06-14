@@ -1,3 +1,7 @@
+> "Instead of imagining that our main task is to instruct a *computer* what to do, let us concentrate rather on explaining to *human beings* what we want a computer to do."
+>
+> — *Donald Knuth*
+
 👋 Hi, I’m a backend engineer who enjoys turning complex logic into clean code.
 
 I treat clarity as a core development principle, placing a strong emphasis on code quality and thorough documentation.
