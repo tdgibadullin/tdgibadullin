@@ -10,17 +10,17 @@ I treat clarity as a core development principle, placing a strong emphasis on co
 
 🛠️ My tech stack:
 - **Languages:** Python, SQL, Bash
-- **Frameworks:** FastAPI, Django
+- **Frameworks:** FastAPI, Django, Django REST Framework
 - **Data Validation:** Pydantic
 - **ORM & Migrations:** SQLAlchemy, Alembic
-- **Databases & Caching:** PostgreSQL, MongoDB, Redis
+- **Databases & Caching:** PostgreSQL, ClickHouse, MongoDB, Redis
 - **Messaging & Background Processing:** Apache Kafka, Celery, Flower
 - **Security Libraries:** PyJWT, pwdlib
 - **Testing & Code Quality:** pytest, mypy, Ruff, Hadolint, pre-commit
 - **Package Management & Command Running:** uv, pip, just
 - **API & Network Debugging:** Postman, Proxyman, Charles Proxy, Mailpit
 - **Version Control:** Git, GitHub, GitLab
-- **Containerization:** Docker
+- **Infrastructure & Web Servers:** Linux, Docker, Kubernetes, nginx
 - **CI/CD:** GitHub Actions, GitLab CI/CD
 
 📫 You can reach me by [email](mailto:tdgibadullin@gmail.com)
