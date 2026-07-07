@@ -2,9 +2,9 @@
 >
 > — *Donald Knuth*
 
-👋 Hi, I’m a backend engineer who enjoys turning complex logic into clean code.
+👋 Hi, I’m a software engineer who enjoys turning complex logic into clean code.
 
-I treat clarity as a core development principle, placing a strong emphasis on code quality and thorough documentation.
+I build resilient systems, prioritizing rigorous testing, strict static analysis, and thorough documentation.
 
 🏛️ I hold a Ph.D. and previously worked as a university senior lecturer.
 
@@ -16,9 +16,10 @@ I treat clarity as a core development principle, placing a strong emphasis on co
 - **Databases & Caching:** PostgreSQL, ClickHouse, MongoDB, Redis
 - **Messaging & Background Processing:** Apache Kafka, Celery, Flower
 - **Security Libraries:** PyJWT, pwdlib
-- **Testing & Code Quality:** pytest, mypy, Ruff, Hadolint, pre-commit
+- **API & Network Tools:** httpx, Requests, Postman, Proxyman, Charles Proxy, Mailpit
+- **Testing:** pytest, Selenium WebDriver, Playwright, Allure TestOps
+- **Code Quality:** mypy, Ruff, Hadolint, pre-commit
 - **Package Management & Command Running:** uv, pip, just
-- **API & Network Debugging:** Postman, Proxyman, Charles Proxy, Mailpit
 - **Version Control:** Git, GitHub, GitLab
 - **Infrastructure & Web Servers:** Linux, Docker, Kubernetes, nginx
 - **CI/CD:** GitHub Actions, GitLab CI/CD
