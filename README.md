@@ -4,7 +4,7 @@
 
 👋 Hi, I’m a software engineer who enjoys turning complex logic into clean code.
 
-I build resilient systems, prioritizing rigorous testing, strict static analysis, and thorough documentation.
+I build resilient systems, prioritizing strict static analysis, rigorous testing, and thorough documentation.
 
 🏛️ I hold a Ph.D. and previously worked as a university senior lecturer.
 
